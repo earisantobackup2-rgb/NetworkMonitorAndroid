@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.NetworkMonitor"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize here if needed -->
+    </style>
+</resources>
